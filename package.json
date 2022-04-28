@@ -1,6 +1,6 @@
 {
    "name": "@quadrio/verify-pdf",
-   "version": "0.4.2",
+   "version": "0.4.3",
    "description": "verify pdf files in JS",
    "main": "lib/index.js",
    "engines": {
